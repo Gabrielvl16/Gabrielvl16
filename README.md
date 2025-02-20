@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" height="165" style="margin-right: 20px; display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=apprentice" alt="Top Langs" height="165" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" height="166" style="margin-right: 20px; display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=apprentice" alt="Top Langs" height="166" style="display: inline-block;"/>
 </div>
 
 <div style="display: inline_block"><br>
