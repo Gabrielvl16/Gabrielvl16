@@ -3,11 +3,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=apprentice" alt="Top Langs" height="166" style="display: inline-block;"/>
 </div>
 
-<div style="display: inline-block;">
-  <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
-  <img align="center" alt="Gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<div style="display: inline-block; margin-top: 20px;">
+  <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="margin-left: 15px;">
+  <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-left: 15px;">
+  <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" style="margin-left: 15px;">
+  <img align="center" alt="Gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="margin-left: 15px;">
 </div>
 
 ##
