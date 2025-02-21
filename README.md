@@ -10,7 +10,7 @@
   <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
   <img align="center" alt="Gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="right" alt="Gab-Guts" src="https://i.gifer.com/1AD9.gif" style="width: 200px; height: auto;">
+  <img align="right" alt="Gab-Guts" src="https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="width: 200px; height: auto;">
 </div>
 
 ##
