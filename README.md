@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Valu! <img src="https://media.giphy.com/media/pmeVDQwBa8IKeuIBdh/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: -200px;">
+## Olá, meu nome é Gabriel Valu! </span> <img src="https://media.giphy.com/media/pmeVDQwBa8IKeuIBdh/giphy.gif" width="35" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center" style="flex-grow: 1;">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" height="166" style="margin-bottom: 40px;"/>
@@ -10,7 +10,7 @@
   <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
   <img align="center" alt="Gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img aling="right" alt="Gab-Guts" src="https://i.gifer.com/1AD9.gif">
+  <img align="right" alt="Gab-Guts" src="https://i.gifer.com/1AD9.gif" style="width: 200px; height: auto;">
 </div>
 
 ##
@@ -29,8 +29,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-
-##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielvl16/Gabrielvl16/output/github-contribution-grid-snake-dark.svg">
