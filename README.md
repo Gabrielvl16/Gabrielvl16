@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Valu! </span> <img src="https://media.giphy.com/media/pmeVDQwBa8IKeuIBdh/giphy.gif" width="35" style="vertical-align: middle; margin-left: 10px;">
+# Olá, meu nome é Gabriel Valu! </span> <img src="https://media.giphy.com/media/pmeVDQwBa8IKeuIBdh/giphy.gif" width="35" style="vertical-align: middle; margin-left: 10px;">
 
 <div align="center" style="flex-grow: 1;">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" height="166" style="margin-bottom: 40px;"/>
