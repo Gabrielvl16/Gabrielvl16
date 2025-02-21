@@ -28,7 +28,7 @@
   </a> 
 </div
 
-#
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielvl16/Gabrielvl16/output/github-contribution-grid-snake-dark.svg">
