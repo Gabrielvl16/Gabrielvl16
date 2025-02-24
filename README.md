@@ -2,10 +2,15 @@
 
 Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Busco aprendizado contínuo e estou sempre em busca de novos desafios para crescer como desenvolvedor e aprimorar minhas habilidades.
 
-<div align="center" style="flex-grow: 1;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="166" style="margin-bottom: 40px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=dracula" alt="Top Langs" height="166" style="margin-bottom: 40px;"/>
+<div style="text-align: center;" align="center">
+    <br>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zNvf&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=92000a&text_color=f2f3f4&border_radius=3&border_color=92000a&icon_color=92000a&theme=jolly" alt="GitHub stats" height="166">
+
+  <a href="https://github.com/zNvf/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zNvf&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=f2f3f4&hide=html,scss,less&bg_color=000&text_color=f2f3f4&border_radius=3&border_color=92000a&count_private=true" alt="Most Used Languages" height="166">
+    </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
