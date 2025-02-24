@@ -2,7 +2,7 @@
 
 Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Busco aprendizado contínuo e estou sempre em busca de novos desafios para crescer como desenvolvedor e aprimorar minhas habilidades.
 
-<div style="text-align: center;" align="center">
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
     <br>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zNvf&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=92000a&text_color=f2f3f4&border_radius=3&border_color=92000a&icon_color=92000a&theme=jolly" alt="GitHub stats" height="166">
 
@@ -10,6 +10,7 @@ Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programaç
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zNvf&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=f2f3f4&hide=html,scss,less&bg_color=000&text_color=f2f3f4&border_radius=3&border_color=92000a&count_private=true" alt="Most Used Languages" height="166">
     </a>
 </div>
+
 
 
 <div style="display: inline_block"><br>
