@@ -1,5 +1,7 @@
 # Olá, meu nome é Gabriel Valu! </span> <img src="https://media.giphy.com/media/pmeVDQwBa8IKeuIBdh/giphy.gif" width="35" style="vertical-align: middle; margin-left: 10px;">
 
+Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação, buscando aprendizado contínuo e desafios para evoluir como desenvolvedor.
+
 <div align="center" style="flex-grow: 1;">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" height="166" style="margin-bottom: 40px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=apprentice" alt="Top Langs" height="166" style="margin-bottom: 40px;"/>
