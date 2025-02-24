@@ -3,8 +3,8 @@
 Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Busco aprendizado contínuo e estou sempre em busca de novos desafios para crescer como desenvolvedor e aprimorar minhas habilidades.
 
 <div align="center" style="flex-grow: 1;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=apprentice" alt="Anurag's GitHub stats" height="166" style="margin-bottom: 40px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=apprentice" alt="Top Langs" height="166" style="margin-bottom: 40px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="166" style="margin-bottom: 40px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=dracula" alt="Top Langs" height="166" style="margin-bottom: 40px;"/>
 </div>
 
 <div style="display: inline_block"><br>
