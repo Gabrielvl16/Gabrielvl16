@@ -4,10 +4,10 @@ Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programaç
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielvl16&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="160">
   
   <!-- Most Used Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=dracula" alt="Top Langs" height="170">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvl16&layout=compact&theme=dracula" alt="Top Langs" height="160">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
