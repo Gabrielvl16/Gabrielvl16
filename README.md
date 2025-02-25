@@ -10,15 +10,24 @@ Sou aluno de Desenvolvimento de Sistemas, apaixonado por tecnologia e programaç
     </a>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Linguagens de Programação -->
+  <div style="margin: 10px;">
+    <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Gab-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gab-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img align="center" alt="Gab-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
+    <img align="center" alt="Gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  </div>
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gab-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gab-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
-  <img align="center" alt="Gab-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="right" alt="Gab-Gif" src="https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="width: 200px; height: auto;">
+  <!-- GIF -->
+  <div style="margin: 10px;">
+    <img align="right" alt="Gab-Gif" src="https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="width: 200px; height: auto;">
+  </div>
 </div>
+
 
 ##
 
